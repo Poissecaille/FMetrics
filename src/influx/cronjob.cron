@@ -1,0 +1,2 @@
+0 1 * * * /var/backup/influx/backup.sh
+0 1 * * * /var/log/influx/logs.sh
